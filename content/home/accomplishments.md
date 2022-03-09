@@ -1,8 +1,13 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
+<<<<<<< HEAD
 widget: accomplishments
 active: false
+=======
+active:false
+widget: accomplishments
+>>>>>>> becd3be262f8478ead522bbf9340ff013ddad076
 
 # This file represents a page section.
 headless: true
