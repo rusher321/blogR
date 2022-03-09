@@ -1,52 +1,57 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+title: "Huahui Ren"
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-highlight_name: true
+  - course: PHD in Genomics
+    institution: Copenhagen University
+    year: 2019
+  - course: MSc in Applied Statistics
+    institution: DUFE
+    year: 2013
+email: renhuahui@genomics.cn
+highlight_name: no
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistical Methods
+- Metagenome
+- R package
+
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: BGI
+#  url: https://datascience.stanford.edu/people/shilaan-alzahawi
+role: PhD student in Copenhagen University
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: mailto:renhuahui@genomics.cn 
+# - display:
+#     header: yes
+#   icon: twitter
+#   icon_pack: fab
+#   label: Find me on Twitter
+#   link: https://twitter.com/shilaan01
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=FJuJKOoAAAAJ&hl=zh-CN
+# - icon: osf
+#   icon_pack: ai
+#   link: https://osf.io/ug7xd/ 
+# - icon: orcid
+#   icon_pack: ai
+#   link: http://orcid.org/0000-0002-6892-4643 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-superuser: true
-title: Huahui Ren (任华慧)
+  link: https://github.com/shilaan
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/shilaanalzahawi/
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://www.instagram.com/shilaan01/ 
+superuser: yes
+#bio: My research interests include statistics, meta-science, and crowdsourced science
+#greeting: alzahawi::shilaan()
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in Copenhagen University and a staff of BGI. My research interests include statistics and metagenome. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Welcome to contract me!
