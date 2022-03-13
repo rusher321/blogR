@@ -20,7 +20,7 @@ content:
     tag: ''
     category: ''
     publication_type: ''
-    author: ''
+    author: 'Huahui Ren'
     exclude_featured: false
     exclude_future: false
     exclude_past: false

@@ -4,10 +4,10 @@ education:
   courses:
   - course: PHD in Genomics
     institution: Copenhagen University
-    year: 2019
+    year: 2022
   - course: MSc in Applied Statistics
     institution: DUFE
-    year: 2013
+    year: 2015
 email: renhuahui@genomics.cn
 highlight_name: no
 interests:
@@ -33,7 +33,7 @@ social:
   icon_pack: fab
   link: https://github.com/rusher321
 superuser: yes
-bio: My research interests include statistics, metagenome. 
+bio: My research interests include statistic, metagenome. 
 #greeting: alzahawi::shilaan()
 ---
 

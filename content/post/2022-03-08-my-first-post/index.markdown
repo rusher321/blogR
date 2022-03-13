@@ -1,10 +1,10 @@
 ---
-title: My first post
+title: 搭建自己的博客
 author: 'Huahui Ren'
-date: '2022-03-08'
+date: '2022-03-13'
 slug: my-first-post
-categories: []
-tags: []
+categories: [技术]
+tags: [blog]
 subtitle: ''
 summary: ''
 authors: []
@@ -17,9 +17,19 @@ image:
 projects: []
 ---
 
+# 搭建自己的博客
 
-```
-## Warning: 程辑包'ggplot2'是用R版本4.1.2 来建造的
-```
+之前自己基于另一套方法`hexo+github`搭过一个[博客](https://rusher321.github.io/2018/06/06/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/)，但是后续因为自己的换了电脑，当时搭建的那一套又没又自动备`份，所以博客就停了。
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" width="672" />
+前几天又心血来潮想搭建一个，之前一直关注谢益辉博客，知道他开发的[blogdown](https://bookdown.org/yihui/blogdown/netlify.html),参考着这个[教程](https://shilaan.rbind.io/post/building-your-website-using-r-blogdown/)很方便的搞好了这个博客。 主要是基于`Hugo+Netlify`。Hugo是基于go语言的静态网站的搭建，而Netlify是托管网站的地方。
+
+比之前方便的地方就是可以自动部署。 
+
+
+
+
+
+
+
+
+
