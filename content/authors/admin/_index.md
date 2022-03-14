@@ -3,11 +3,14 @@ title: "Huahui Ren"
 education:
   courses:
   - course: PHD in Genomics
-    institution: Copenhagen University
+    institution: KU
     year: 2022
   - course: MSc in Applied Statistics
     institution: DUFE
     year: 2015
+  - course: BAc in Sinence of Information & Computation
+    institution: SX
+    year: 2013
 email: renhuahui@genomics.cn
 highlight_name: no
 interests:
@@ -19,7 +22,7 @@ organizations:
 - name: BGI
 #  url: https://datascience.stanford.edu/people/shilaan-alzahawi
 
-role: PhD student in Copenhagen University
+role: Bioinformatics 
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,7 +40,7 @@ bio: My research interests include statistic, metagenome.
 #greeting: alzahawi::shilaan()
 ---
 
-I am a PhD student in Copenhagen University and a staff of BGI. My research interests include statistics and metagenome. 
+I am a reseacher, now in BGI and KU. My research interests include **Statistics** and **Metagenome**. 
 
 Welcome to contract me!
 

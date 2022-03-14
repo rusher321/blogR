@@ -1,0 +1,42 @@
+---
+title: The index of microbiome
+author: ''
+date: '2022-03-14'
+slug: the-index-of-microbiome
+categories: [技术]
+tags: [microbiome]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-03-14T11:17:30+08:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+## 如何设计宏基因组指标
+
+现在的宏基因组大多数都是基于生态学的指标来设计的，是不是可以参考其他学科来设计宏基因组相关的指标？我想是有可能的，例如：针对矩阵结构，高等代数有很多的在各种空间中的变换方法。金融里有众多的指标，犹记得上学的时候有一门国民指标体系的课，可以全面反应经济体系的运转。感觉也可以设计一种指标体系，来反应个人或者群体的菌群结构，可以作为兴趣来做一下 
+
+### 1. 宏基因组相关指标收集 
+
+
+
+### 2. 宏基因组指标设计
+
+
+
+
+**ref**
+
+1. [如何搭建指标体系](https://blog.csdn.net/qq_34069667/article/details/107064289)
+2. [Performance determinants of unsupervised clustering methods for microbiome data](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01199-3)
+3. 
+
+
+
+
+
