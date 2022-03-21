@@ -32,8 +32,9 @@ projects: []
 * 小技巧
 1. 预览未提交网页界面
 
-```{r}
-blogdown:::serve_site()
+
+```r
+blogdown:::preview_site()
 ```
 
 

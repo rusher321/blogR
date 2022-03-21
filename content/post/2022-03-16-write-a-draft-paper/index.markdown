@@ -7,7 +7,7 @@ categories: [academic]
 tags: []
 subtitle: ''
 summary: ''
-authors: [Huahui Ren]
+authors: []
 lastmod: '2022-03-16T10:11:58+08:00'
 featured: no
 image:
@@ -23,6 +23,7 @@ projects: []
 最近在写论文记录下整个过程中的点滴，方便以后反思与学习。
 
 - 引言部分
+
 
 
 
