@@ -37,7 +37,7 @@ projects: []
 - [X] Paper wiring/2 paragraph  5h
 - [X] The function analyses in fishoil project 1.5h
 - [X] The Update of blog 0.5h
-- [X] Runing 0.5h
+- [X] Running 0.5h
 - [ ] otherthing else 
 ```
 
@@ -45,11 +45,52 @@ projects: []
 
 ```markdown
 - [ ] Paper wiring/3 paragraph  5h
-- [ ] The function analyses in fishoil project 0.5h
-- [ ] The Update of blog 0.5h
-- [ ] Runing 0.5h
+- [X] The function analyses in fishoil project 0.5h
+- [X] The Update of blog 0.5h
+- [X] Running 0.5h
 - [ ] Reading 0.5h
 - [ ] otherthing else 
+```
+
+
+#### 0322-2022
+
+```markdown
+- [ ] Paper wiring/3 paragraph  5h
+- [X] The function analyses in fishoil project 0.5h
+- [X] The Update of blog 0.5h
+- [X] Running 0.5h
+- [x] Reading 0.5h
+- [ ] otherthing else 
+```
+
+#### 0323-2022
+
+```markdown
+- [ ] Paper reding & wiring/3 paragraph  5h
+- [X] The Update of blog 0.5h
+- [X] Running 0.5h
+- [x] Reading 0.5h
+- [ ] otherthing else 
+```
+
+#### 0324-2022
+
+```markdown
+- [ ] Paper wiring/3 paragraph  5h
+- [X] The Update of blog 0.5h
+- [X] Running 0.5h
+- [x] Reading 0.5h
+- [ ] Update of microbiotaPair
+```
+#### 0325-2022
+
+```markdown
+- [ ] Paper wiring/3 paragraph  
+- [X] The Update of blog 
+- [X] Running 0.5h
+- [x] Reading 0.5h
+- [x] Update of microbiotaPair
 ```
 
 
