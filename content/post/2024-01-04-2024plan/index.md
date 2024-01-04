@@ -11,7 +11,7 @@ authors: []
 lastmod: '2024-01-04T16:21:44+08:00'
 featured: no
 image: 
-  caption: 'Image credit: [**JAlex Gruber**](https://unsplash.com/photos/a-dog-jumping-up-into-the-air-to-catch-a-frisbee-O4xd7tVHiqQ)'
+  caption: '(https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)'
   placement: 3
 projects: []
 ---
