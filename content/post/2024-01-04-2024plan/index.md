@@ -12,17 +12,16 @@ lastmod: '2024-01-04T16:21:44+08:00'
 featured: no
 image: 
   caption: 'Image credit: [**JAlex Gruber**](https://unsplash.com/photos/a-dog-jumping-up-into-the-air-to-catch-a-frisbee-O4xd7tVHiqQ)'
-  focal_point: ''
-  preview_only: no
+  placement: 3
 projects: []
 ---
 
 
-## 随缘plan-2024 
+## `随缘plan-2024` 
 
 2024年开始了，做个计划，慢慢补充 ~
 
 - [x] 做个2024完不成的计划
-- [-] 学习粤语
-- [%] Earth (Orbit/Moon)
+- [%] 学习粤语
+- [%] 坚持写博客，周更？  
 - [+] 啥呢？
