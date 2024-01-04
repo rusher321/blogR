@@ -10,20 +10,19 @@ summary: ''
 authors: []
 lastmod: '2024-01-04T16:21:44+08:00'
 featured: no
-image:
+image: "images/boards.jpg"
   caption: ''
   focal_point: ''
   preview_only: no
 projects: []
 ---
 
-![](images/boards.jpg)
 
 ## 随缘plan-2024 
 
 2024年开始了，做个计划，慢慢补充 ~
 
--[X] 做个2024完不成的计划
--[-] 学习粤语
--[%]
--[+] 
+- [x] 做个2024完不成的计划
+- [-] 学习粤语
+- [%] Earth (Orbit/Moon)
+- [+] 啥呢？

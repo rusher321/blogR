@@ -30,7 +30,9 @@ projects: []
 2. 新建的时候会自动生成一个以时间命名的文件
 
 ### 工作流
-
+1. 新建：blogdown::new_post("2024Plan") or  blogdown:::new_post_addin() 
+2. 预览：blogdown:::preview_site()
+3. 插入图片： blogdown:::insert_image_addin()
 
 
 ### 参考：
