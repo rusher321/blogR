@@ -4,7 +4,7 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Huahui's blog # Website name
 baseurl: 'https://huahui.netlify.app/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
@@ -58,7 +58,15 @@ taxonomies:
   publication_type: publication_types
   author: authors
 markup:
-  _merge: deep
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
 related:
   threshold: 80
   includeNewer: true

@@ -17,7 +17,7 @@ image:
 projects: []
 ---
 
-###  搭建自己的博客
+##  搭建自己的博客
 
 之前自己基于另一套方法`hexo+github`搭过一个[博客](https://rusher321.github.io/2018/06/06/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/)，但是后续因为自己的换了电脑，当时搭建的那一套又没有自动备份，所以博客就停了。
 
@@ -27,7 +27,16 @@ projects: []
 
 * 未解决的问题
 1. post 下面的标签还没找到方法去除。 
-2. 博客想分成两个部分，一个是记录自己的生活，另一个是分享自己正在学习或者做的事情。 
+2. 新建的时候会自动生成一个以时间命名的文件
+
+### 工作流
+
+
+
+### 参考：
+1. [blogdown Insert Image addin](https://lcolladotor.github.io/2018/03/07/blogdown-insert-image-addin/)
+2. [Create your own site with blogdown in R](https://www.caitlincasar.com/post/blogdown/)
+3. [手把手带你搭建个人博客](https://cosx.org/2022/03/build-blog-step-by-step/)
 
 
 
