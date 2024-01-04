@@ -12,7 +12,8 @@ lastmod: '2024-01-04T16:21:44+08:00'
 featured: no
 image: 
   caption: ''
-  placement: 3
+  focal_point: ''
+  preview_only: yes
 projects: []
 ---
 
