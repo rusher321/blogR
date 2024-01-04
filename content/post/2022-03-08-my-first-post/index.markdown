@@ -17,7 +17,7 @@ image:
 projects: []
 ---
 
-##  搭建自己的博客
+###  搭建自己的博客
 
 之前自己基于另一套方法`hexo+github`搭过一个[博客](https://rusher321.github.io/2018/06/06/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/)，但是后续因为自己的换了电脑，当时搭建的那一套又没有自动备份，所以博客就停了。
 
@@ -34,12 +34,14 @@ projects: []
 2. 预览：blogdown:::preview_site()
 3. 插入图片： blogdown:::insert_image_addin()
 
+### Tips
+1. 在博客目录下加入featured.png，可以在主页面看到图片
 
 ### 参考：
 1. [blogdown Insert Image addin](https://lcolladotor.github.io/2018/03/07/blogdown-insert-image-addin/)
 2. [Create your own site with blogdown in R](https://www.caitlincasar.com/post/blogdown/)
 3. [手把手带你搭建个人博客](https://cosx.org/2022/03/build-blog-step-by-step/)
-
+4. [blogdown's bookdown](https://bookdown.org/yihui/blogdown/)
 
 
 

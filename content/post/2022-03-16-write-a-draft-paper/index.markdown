@@ -30,7 +30,7 @@ projects: []
 * 2. Schmidt TSB, Raes J, Bork P. The Human Gut Microbiome: From Association to Modulation. Cell. 2018;172(6):1198-1215.
 * 3. Lynch, S. V. & Pedersen, O. The human intestinal microbiome in health and disease.N. Engl. J. Med. 375, 2369–2379 (2016).
 * 4. Rena G, Hardie DG, Pearson ER. The mechanisms of action of metformin. Diabetologia. 2017;60(9):1577-1585.
-* 5. Foretz M, Guigas B, Viollet B. Understanding the glucoregulatory mechanisms of metformin in type 2 diabetes mellitus. Nat Rev Endocrinol. 2019;15(10):569-589. doi:10.1038/s41574-019-0242-2.
+* 5. Foretz M, Guigas B, Viollet B. Understanding the glucoregulatory mechanisms of metformin in type 2 diabetes mellitus. Nat Rev Endocrinol. 2019;15(10):569-589.
 * 6. Wilson ID, Nicholson JK. Gut microbiome interactions with drug metabolism, efficacy, and toxicity. Transl Res. 2017;179:204-222.
 
 
