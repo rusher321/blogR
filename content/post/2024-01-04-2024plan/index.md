@@ -10,8 +10,8 @@ summary: ''
 authors: []
 lastmod: '2024-01-04T16:21:44+08:00'
 featured: no
-image: "images/boards.jpg"
-  caption: ''
+image: 
+  caption: 'Image credit: [**JAlex Gruber**](https://unsplash.com/photos/a-dog-jumping-up-into-the-air-to-catch-a-frisbee-O4xd7tVHiqQ)'
   focal_point: ''
   preview_only: no
 projects: []
