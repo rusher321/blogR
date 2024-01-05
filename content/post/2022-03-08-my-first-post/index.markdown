@@ -25,17 +25,22 @@ projects: []
 
 比之前方便的地方就是可以自动部署。 
 
-* 未解决的问题
+### :question:未解决的问题
 1. post 下面的标签还没找到方法去除。 
 2. 新建的时候会自动生成一个以时间命名的文件
+3. 如何添加一个评论系统
+4. 除了post如何新加页面，[类似这样](https://www.caitlincasar.com/index.html)
+5. 学习如何修改academic theme
 
-### 工作流
+### :panda_face:工作流
 1. 新建：blogdown::new_post("2024Plan") or  blogdown:::new_post_addin() 
 2. 预览：blogdown:::preview_site()
 3. 插入图片： blogdown:::insert_image_addin()
+4. 保存后+preview
 
-### Tips
+### :smile:Tips
 1. 在博客目录下加入featured.png，可以在主页面看到图片
+2. 可以添加[emoji图标](https://blog.csdn.net/luo15242208310/article/details/114530777)
 
 ### 参考：
 1. [blogdown Insert Image addin](https://lcolladotor.github.io/2018/03/07/blogdown-insert-image-addin/)

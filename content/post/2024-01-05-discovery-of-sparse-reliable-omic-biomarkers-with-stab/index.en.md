@@ -1,5 +1,5 @@
 ---
-title: Discovery of sparse, reliable omic biomarkers with Stab
+title: Discovery of sparse, reliable omic biomarkers with Stabl
 author: Huahui Ren
 date: '2024-01-05'
 slug: discovery-of-sparse-reliable-omic-biomarkers-with-stab
@@ -33,6 +33,25 @@ projects: []
 slides: ''
 ---
 
-###
 
-![](images/featureed.png)
+![](images/featured.png)
+
+### 背景
+***
+
+
+### 主要结果
+***
+
+
+### 结论
+***
+
+
+#### 参考
+
+1. Hédou J, Marić I, Bellan G, et al. Discovery of sparse, reliable omic biomarkers with Stabl. Nat Biotechnol. Published online January 2, 2024. doi:10.1038/s41587-023-02033-x
+
+
+
+
