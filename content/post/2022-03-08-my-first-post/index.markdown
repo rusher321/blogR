@@ -42,13 +42,14 @@ projects: []
 1. 在博客目录下加入featured.png，可以在主页面看到图片
 2. 可以添加[emoji图标](https://blog.csdn.net/luo15242208310/article/details/114530777)
 
-### 参考：
-1. [blogdown Insert Image addin](https://lcolladotor.github.io/2018/03/07/blogdown-insert-image-addin/)
-2. [Create your own site with blogdown in R](https://www.caitlincasar.com/post/blogdown/)
-3. [手把手带你搭建个人博客](https://cosx.org/2022/03/build-blog-step-by-step/)
-4. [blogdown's bookdown](https://bookdown.org/yihui/blogdown/)
 
+### :eyes:参考：
 
+1. [Create your own site with blogdown in R](https://www.caitlincasar.com/post/blogdown/)
+2. [手把手带你搭建个人博客](https://cosx.org/2022/03/build-blog-step-by-step/)
+3. [blogdown's bookdown](https://bookdown.org/yihui/blogdown/)
+4. [markdown基本语法学习和速查](https://markdown.com.cn/cheat-sheet.html#%E6%89%A9%E5%B1%95%E8%AF%AD%E6%B3%95)
+5. [blogdown Insert Image addin](https://lcolladotor.github.io/2018/03/07/blogdown-insert-image-addin/)
 
 
 

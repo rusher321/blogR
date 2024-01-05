@@ -34,3 +34,6 @@ projects: []
       
   - 1. [inteSIN](https://github.com/rusher321/inteSIN):一个整合单样本网络推断的方法。
   - 2. ...
+  
+- [ ] [0/12] 参加12个seminar
+  - 1. XXX

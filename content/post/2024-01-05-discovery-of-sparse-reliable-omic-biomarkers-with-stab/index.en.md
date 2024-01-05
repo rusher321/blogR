@@ -50,8 +50,7 @@ slides: ''
 
 #### 参考
 
-1. Hédou J, Marić I, Bellan G, et al. Discovery of sparse, reliable omic biomarkers with Stabl. Nat Biotechnol. Published online January 2, 2024. doi:10.1038/s41587-023-02033-x
-
+1. Hédou J, Marić I, Bellan G, et al. Discovery of sparse, reliable omic biomarkers with Stabl. Nat Biotechnol. Published online January 2, 2024.
 
 
 
