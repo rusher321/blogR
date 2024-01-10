@@ -29,11 +29,13 @@ projects: []
 
   - 1. 一周一篇文献解读
     - 1.1 [Discovery of sparse, reliable omicbiomarkers with Stabl](https://huahui.netlify.app/post/discovery-of-sparse-reliable-omic-biomarkers-with-stab/)
+    - 1.2 新建了[coverM](https://github.com/wwood/CoverM)的环境,可以做一个经验贴。
 
 - [ ] [1/2] 完成两个工具开发
       
   - 1. [inteSIN](https://github.com/rusher321/inteSIN):一个整合单样本网络推断的方法。
   - 2. ...
   
-- [ ] [0/12] 参加12个seminar
-  - 1. XXX
+- [ ] [1/12] 参加12个seminar/scademic conference
+  - 1.  今年(**0110**)听的第一个seminar是荷兰格罗宁根大学傅静远老师和Alexandra Zhernakova来华大访问的讲座。主要讲了追踪随访的荷兰队列：lifeline-deep和life-next,其中life-next会关注孕期的母亲和刚出生的小孩子。[华大视频链接]
+  - 2. 
