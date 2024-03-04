@@ -1,5 +1,6 @@
 ---
 title: Discovery of sparse, reliable omic biomarkers with Stabl
+subtitle: ""
 author: Huahui Ren
 date: '2024-01-05'
 slug: discovery-of-sparse-reliable-omic-biomarkers-with-stab
@@ -14,8 +15,8 @@ publication_types:
   - '0'
 publication: ''
 publication_short: ''
-abstract: ''
-summary: ''
+abstract: 'summary: 本研究是斯坦福大学团队于2024发表在NBT。该研究开发了一款叫[Stabl](https://github.com/gregbellan/Stabl)的工具，Stabl适用于小样本、多组学、高维度数据集中的临床生物标记物发现。'
+summary: '本研究是斯坦福大学团队于2024发表在NBT。该研究开发了一款叫[Stabl](https://github.com/gregbellan/Stabl)的工具，Stabl适用于小样本、多组学、高维度数据集中的临床生物标记物发现。'
 featured: no
 url_pdf: ~
 url_code: ~
