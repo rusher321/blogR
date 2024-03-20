@@ -50,7 +50,7 @@ slides: ''
 
 另外一些考虑了稳定性的方法，往往通常是通过设置先验的筛选阈值和降低假阳性率来达到的。这类方法使建模与特征选择分成两个不同的模块，可能不是很好的选择。
 
-**Stabl**方法是基于一个有监督的机器学习框架，通过在训练阶段讲原始数据加入噪音，确定信噪音比的阈值，然后再决定是否把变量纳入到预测模型中。（**原文**：Stabl combines noise injection into the original data, determination of a data-driven signal-to-noise threshold and integration of the selected features into a predictive model）
+**Stabl**方法是基于一个有监督的机器学习框架，通过在训练阶段将原始数据加入噪音，确定信噪音比的阈值，然后再决定是否把变量纳入到预测模型中。（**原文**：Stabl combines noise injection into the original data, determination of a data-driven signal-to-noise threshold and integration of the selected features into a predictive model）
 
 ### 主要结果
 ***
