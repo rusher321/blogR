@@ -6,32 +6,54 @@ slug: write-a-draft-paper
 categories: [academic]
 tags: []
 subtitle: ''
-summary: ''
+summary: '关于论文写作的点滴'
 authors: []
 lastmod: '2022-03-16T10:11:58+08:00'
 featured: no
 image:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   #focal_point: ''
   placement: 3
   preview_only: no
 projects: []
 ---
 
-#### 关于论文写作的点滴
+## 关于论文写作的点滴
 
 最近在写论文记录下整个过程中的点滴，方便以后反思与学习。
 
-- 引言部分
+#### Ten tips on academic writing 
+
+* **Abstract**: a self-contained section; the "30-second" test
+* **Introduction**: background; current state of affairs; gaps and shortcoming; your contribution
+* **Material and methods**: the passive voice; reproducibility of your study; the "robot test"
+* **Results**: never mention anything not mentioned in the paper.
+* **Discussion**: active voice; modality; connectives for linear and hierarchical argumentation; your justification and commitment
+* **Punctuation** commas separate; never comma before "that";parentheses whisper; dashes scream
+* **Headlines and topic sentences promise what is to come** generate expectations and stimulate reading 
+* **NP+VP=S. Stick to simple sentence sturctures** be generous with full stops
+* **Remember cue words** recognition and identification 
+* **Co-authors** instruct, guide, demand
+
+Control: write your research question in the header
+
+#### 引言部分
 
 在写引言这块，会看大量的综述，记录下自己大呼过瘾的综述。
 
-* 1. Fan Y, Pedersen O. Gut microbiota in human metabolic health and disease. Nat Rev Microbiol. 2021;19(1):55-71.
-* 2. Schmidt TSB, Raes J, Bork P. The Human Gut Microbiome: From Association to Modulation. Cell. 2018;172(6):1198-1215.
-* 3. Lynch, S. V. & Pedersen, O. The human intestinal microbiome in health and disease.N. Engl. J. Med. 375, 2369–2379 (2016).
-* 4. Rena G, Hardie DG, Pearson ER. The mechanisms of action of metformin. Diabetologia. 2017;60(9):1577-1585.
-* 5. Foretz M, Guigas B, Viollet B. Understanding the glucoregulatory mechanisms of metformin in type 2 diabetes mellitus. Nat Rev Endocrinol. 2019;15(10):569-589.
-* 6. Wilson ID, Nicholson JK. Gut microbiome interactions with drug metabolism, efficacy, and toxicity. Transl Res. 2017;179:204-222.
+  * 1. Fan Y, Pedersen O. Gut microbiota in human metabolic health and disease. Nat Rev Microbiol. 2021;19(1):55-71. doi:10.1038/s41579-020-0433-9 Add to Citavi project by DOI
+  
+  * 2. Schmidt TSB, Raes J, Bork P. The Human Gut Microbiome: From Association to Modulation. Cell. 2018;172(6):1198-1215. doi:10.1016/j.cell.2018.02.044 Add to Citavi project by DOI
+  
+  * 3. Lynch, S. V. & Pedersen, O. The human intestinal microbiome in health and disease.N. Engl. J. Med. 375, 2369–2379 (2016).
+  
+  * 4. Rena G, Hardie DG, Pearson ER. The mechanisms of action of metformin. Diabetologia. 2017;60(9):1577-1585. doi:10.1007/s00125-017-4342-z Add to Citavi project by DOI
+  
+  * 5. Foretz M, Guigas B, Viollet B. Understanding the glucoregulatory mechanisms of metformin in type 2 diabetes mellitus. Nat Rev Endocrinol. 2019;15(10):569-589. doi:10.1038/s41574-019-0242-2 Add to Citavi project by DOI
+  
+  * 6. Wilson ID, Nicholson JK. Gut microbiome interactions with drug metabolism, efficacy, and toxicity. Transl Res. 2017;179:204-222. doi:10.1016/j.trsl.2016.08.002 
+
+
 
 
 
