@@ -32,6 +32,7 @@ projects: []
     - 1.2 新建了[coverM](https://github.com/wwood/CoverM)的环境,可以做一个经验贴。
     - 1.3 [Alistipes indistinctus-derived hippuric acid promotes intestinal urate excretion to alleviate hyperuricemia](https://huahui.netlify.app/post/2024-03-01-alistipes-indistinctus/)
     - 1.4 自己的文章：[Deciphering unique and shared interactions between the human gut microbiota and oral antidiabetic drugs](https://doi.org/10.1002/imt2.179)
+    - 1.5 DNB到sDNA: []()
 
 - [ ] [1/2] 完成两个小工具开发
       
@@ -47,6 +48,9 @@ projects: []
 - [ ] [1/10] 读十本自我发展心理方向的书籍
   - 《天生敏感》，作者：伊莱恩·N·阿伦（Elaine N. Aron）3/22-
   - 《》，作者：
+
+- [X] 听一场演唱会
+  -  **0316**： 今年生日，家慧给买了一张新裤子“北海怪兽”的看台票
 
 **:question:各种问题**
 - *P.copri* 在人体肠道内的分布为什么会如此之大?来自一个P肠型的疑惑

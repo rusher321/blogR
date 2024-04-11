@@ -80,6 +80,17 @@ Lasso encounters challenges with correlated data structures often favoring one o
 ***
 Stabl 是一种机器学习框架，旨在促进多组学生物标记物研究的临床转化。通过人工噪声注入和最小化 FDP，Stabl能够在多变量预测建模架构内以数据驱动的方式选择更少且可靠的候选生物标记物。
 
+### 安装
+
+**julia 安装**
+
+julia_v1.9.2安装版本可以从这里[下载](https://julialang.org/downloads/oldreleases/),
+由于julia安装的包会默认在home目录下.julia，可以加一个软连接，这样home目录就不会超内存。另外测试了julia_v1.10.2和当前的版本不兼容。 
+
+**Stabl**  
+新建Stabl的3.9环境，然后conda安装Stabl中环境中指定版本的包。安装完成后，用Tutorial Notebook测试对应环境。
+
+
 #### 参考
 
 1. Hédou J, Marić I, Bellan G, et al. Discovery of sparse, reliable omic biomarkers with Stabl. Nat Biotechnol. Published online January 2, 2024.
