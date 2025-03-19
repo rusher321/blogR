@@ -1,5 +1,5 @@
 ---
-title: 2024Plan
+title: 年度计划
 author: 'huahui ren'
 date: '2024-01-04'
 slug: 2024plan
@@ -16,6 +16,8 @@ image:
   preview_only: yes
 projects: []
 ---
+
+**2025年开始了，做个计划 ~**
 
 
 **2024年开始了，做个计划，慢慢补充 ~**
@@ -35,6 +37,8 @@ projects: []
     - 1.5 [从DNB到sDNA:](https://huahui.netlify.app/post/dnb/)
     - 1.6 [A digital twin of the infant microbiome to predict neurodevelopmental deficits]()
     - 1.7 科研文章：[Divergent age-associated and metabolism-associated gut microbiome signatures modulate cardiovascular disease risk](https://www.nature.com/articles/s41591-024-03038-y)
+    - 1.8 [Identifying keystone species in microbial communities using deep learning](https://www.nature.com/articles/s41559-023-02250-2) 
+    
 
 - [ ] [1/2] 完成两个小工具开发
       
@@ -60,16 +64,24 @@ projects: []
 - [X] 听一场演唱会
   -  **0316**： 今年生日，家慧给买了一张新裤子“北海怪兽”的深圳演唱会票
 
-- [ ] 今年去的城市
+- [X] 今年去的城市
   - 哈尔滨
   - 大连
+  - 北京
+  - 长沙
+  - 泉州
+  - 汕头
+  - 佛山
+  - 大连
+  - 深圳
+  - 家
   
   
 
 **:question:各种问题**
 - *P.copri* 在人体肠道内的分布为什么会如此之大?来自一个P肠型的疑惑
 - 挖掘微生物功能潜力的最佳实践是什么?
-- 
+- PCSK9挖掘，是否有可能产生PCSK9结构物的微生物。
 
 
   

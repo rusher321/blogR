@@ -32,7 +32,7 @@ projects: []
 - [ ] 3. 如何添加一个评论系统
 - [ ] 4. 除了post如何新加页面，[类似这样](https://www.caitlincasar.com/index.html)
 - [ ] 5. 学习如何修改academic theme
-- [ ] 6. 预览如何设置仅前几行
+- [X] 6. 预览如何设置仅前几行
 
 ### :panda_face:工作流
 1. 新建：blogdown::new_post("2024Plan") or  blogdown:::new_post_addin() 
